@@ -1,2 +1,1 @@
-# Zuri_JS_2
-Assignment
+# https://iamohwoevwomeshack.github.io/Zuri_JS_2/
